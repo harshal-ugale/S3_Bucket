@@ -8,7 +8,7 @@
 			}
 		},
 		 "Resources": {
-			 "mys3bucket": {
+			 "Happys3bucket": {
 				 "Type": "AWS::S3::Bucket",
 					 "Properties":{
 						"BucketName": {"Ref":"BucketName"}
